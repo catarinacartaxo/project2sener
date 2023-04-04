@@ -21,7 +21,7 @@ PyQt5==5.15.7
 PyQtWebEngine==5.15.4
 scipy==1.7.3
 seaborn==0.12.2
-sklearn==0.0.post1
+scikit-learn
 tzdata==2022.7
 webencodings==0.5.1
 wincertstore==0.2
