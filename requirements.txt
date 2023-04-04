@@ -21,7 +21,7 @@ PyMeeus==0.5.12
 PyQt5==5.15.7
 PyQtWebEngine==5.15.4
 pypiwin32==223
-scipy==1.10.0
+scipy==1.7.3
 seaborn==0.12.2
 sklearn==0.0.post1
 tzdata==2022.7
