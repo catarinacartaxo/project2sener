@@ -20,7 +20,7 @@ pyls-spyder==0.4.0
 PyMeeus==0.5.12
 PyQt5==5.15.7
 PyQtWebEngine==5.15.4
-pywin32==305.1
+pypiwin32==223
 scipy==1.10.0
 seaborn==0.12.2
 sklearn==0.0.post1
