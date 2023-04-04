@@ -1,7 +1,6 @@
 appdirs==1.4.4
 atomicwrites==1.4.0
 brotlipy==0.7.0
-chardet @ file:///C:/ci_310/chardet_1642114080098/work
 convertdate==2.4.0
 fonttools==4.25.0
 hijri-converter==2.2.4
