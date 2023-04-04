@@ -8,9 +8,6 @@ import pickle
 from sklearn import  metrics
 import numpy as np
 import holidays
-from sklearn.model_selection import train_test_split
-from sklearn import  metrics
-import statsmodels.api as sm
 import plotly.graph_objects as go
 
 #kbest
