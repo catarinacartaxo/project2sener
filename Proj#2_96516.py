@@ -23,7 +23,6 @@ from sklearn.ensemble import RandomForestRegressor
 #Define CSS style
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-server=app.server
 
 #Load data
 df = pd.read_csv('testData_2019_Central.csv') #load meteo data
@@ -359,6 +358,7 @@ def generate_table(dataframe, max_rows=10):
 
 #// --- APP --- \\
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+server=app.server
 
 app.layout = html.Div([
     html.H2('IST Central Building Energy Forecast'),
