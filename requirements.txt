@@ -28,3 +28,4 @@ sklearn==0.0.post1
 tzdata==2022.7
 webencodings==0.5.1
 wincertstore==0.2
+gunicorn
