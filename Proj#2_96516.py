@@ -23,6 +23,8 @@ from sklearn.ensemble import RandomForestRegressor
 #Define CSS style
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
+server=app.server
+
 #Load data
 df = pd.read_csv('testData_2019_Central.csv') #load meteo data
 #columns #'Date', 'Central (kWh)', 'temp_C', 'HR', 'windSpeed_m/s', 'windGust_m/s', 'pres_mbar', 'solarRad_W/m2', 'rain_mm/h', 'rain_day
